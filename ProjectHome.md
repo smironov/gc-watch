@@ -1,0 +1,1 @@
+Very interesting application that shows how every single java object is being collected by GC.
